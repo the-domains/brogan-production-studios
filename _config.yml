@@ -1,13 +1,28 @@
+name: 'Brogan Production Studios '
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.5276596
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 1
-  brandStrength: 0.0179566
-  saturation: 0.4851064
-  rhythmicContrast: 1
   brandColors:
-    - '#FFFFFF'
-    - '#020103'
-    - '#434143'
-    - '#817F81'
-name: 'Brogan Production Studios '
+    - '#ffffff'
+    - '#020202'
+    - '#323232'
+    - '#6d6d6d'
+    - '#b3b3b3'
+  brandStrength: 0.8125
+  lightness: 1
+  saturation: 0.25
+  rhythmicContrast: 0.75
+purpose: []
