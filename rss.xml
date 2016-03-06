@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brogan Production Studios ]]></title>
         <description><![CDATA[Brogan Production Studios ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brogan-production-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 22:11:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 23:42:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brogan-production-studios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bdd05ef-e6ac-498d-aa1b-0c2266f8d849.bmp">]]></description>
+            <link>https://thegrid.ai/brogan-production-studios/8cc1ab43-1a90-420e-addd-b43e506f47a9/index.html</link>
+            <guid isPermaLink="false">8cc1ab43-1a90-420e-addd-b43e506f47a9</guid>
+            <pubDate>Sun, 06 Mar 2016 23:42:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Only Place for Free Professional Photo Shoots in the UK! ]]></title>
             <description><![CDATA[<article><h1>The Only Place for Free Professional Photo Shoots in the UK! </h1><p>BroganProduction Studios, Manchester - Offers FREE, Professionally Tailored Studio Photo Shoots For Models</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53655ba816e60e1fe9324a9083de8de966c067b8.jpg"></article>]]></description>
-            <link>undefinedthe-only-place-for-free-professional-photo-shoots-in-the-uk/index.html</link>
+            <link>https://thegrid.ai/brogan-production-studios/the-only-place-for-free-professional-photo-shoots-in-the-uk/index.html</link>
             <guid isPermaLink="false">385e4b92-f641-4986-8578-75f6ef99f8d4</guid>
             <pubDate>Sun, 06 Mar 2016 22:11:04 GMT</pubDate>
         </item>
